@@ -1,0 +1,19 @@
+body{
+background-color:#FFE4D6
+}
+
+#menu{
+display: flex;
+justify-content: space-between;
+width: 100%
+}
+
+.menu-characters a {
+color: white;
+text-decoration: none;
+}
+
+.menu-home a {
+text-decoration: none;
+color: black;
+}
